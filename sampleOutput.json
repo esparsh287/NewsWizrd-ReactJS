@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press",
+      "title": "Louisiana governor wants live tiger back at LSU football games",
+      "description": "Gov. Jeff Landry confirmed his support on Tuesday of restarting the tradition of bringing Louisiana State University’s live tiger mascot onto the football field ahead of home games.",
+      "url": "https://www.nbcnews.com/news/animal-news/louisiana-governor-wants-live-tiger-back-lsu-football-games-rcna173549",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241001-mike-tiger-lsu-ew-642p-89afa9.jpg",
+      "publishedAt": "2024-10-01T22:58:15Z",
+      "content": "BATON ROUGE, La. Gov. Jeff Landry confirmed his support on Tuesday of restarting the tradition of bringing Louisiana State Universitys live tiger mascot onto the football field ahead of home games.\r\n… [+3437 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-uk",
+        "name": "Google News (UK)"
+      },
+      "author": "Lancs Live",
+      "title": "First picture of 'talented' boy, 8, shot dead on farm as football club pays tribute - Lancs Live",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzd3dTh3S2FhNTNhSGlBZmRqTlBWZ3I5UmpMNUFZamhMdTUwNm1lbHBUWS0wZlFvamNvcHc5amI0U19Wd1VqMG42dURqYmt6Q2lPSkw0aGxXOURDeVpmcGFlUllOYk5pQkwxcFRqazNTdE1mT2ZzMzRzZHJNekdYalBlTkfSAYoBQVVfeXFMUHRtU0ptYlBRb1NoOFZIWFlRRjJvMHJsWFBpUkZwQVI4SndudXo5M2tndW5oWUhjVEhtV2ZWQU1kUExlZFRWX3hTZUFnYUxETUtZQVJDUE94SmpabEtNcWw1MFlNQUgwS0tzZVN0V2xrc29wb2FZcUJxT3Q0OE5Id2U5bWRxcE9KRWNR?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-10-01T09:55:40+00:00",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": null,
+      "title": "National Football League\n     <!----> \n        Five potential Cowboys picks to track at the NFL Draft Combine\n       \n      1 hour ago",
+      "description": null,
+      "url": "http://www.foxsports.com/stories/nfl/five-potential-cowboys-picks-to-track-at-the-nfl-draft-combine",
+      "urlToImage": null,
+      "publishedAt": "2024-02-29T18:37:22.5746516Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "author": "David Kenyon",
+      "title": "Unique Stats from the 2023 College Football Regular Season",
+      "description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
+      "url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
+      "publishedAt": "2023-12-12T12:00:00Z",
+      "content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
